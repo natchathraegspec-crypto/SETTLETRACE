@@ -15,7 +15,6 @@ SettleTrace combines automated reconciliation, AI-assisted investigation, rule-b
 Reconciliation  
 → Exception Detection  
 → AI Investigati…
-[12:13 am, 05/09/2026] NATCHATHRA R: # SettleTrace
 
 ### AI-Powered Payment Reconciliation & Exception Handling
 
@@ -86,8 +85,8 @@ Reconciliation
 
 SettleTrace does not allow AI to independently execute sensitive financial decisions. Recommendations pass through safety controls and can require human review before resolution.
 
-## Demo
-
+## Live Demo
+https://claude.ai/public/artifacts/4fa66f4b-0a0c-443d-8191-0ed54402711f
 A published prototype is available through the project demo link.
 
 ## Vision
