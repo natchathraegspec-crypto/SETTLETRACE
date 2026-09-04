@@ -1,6 +1,5 @@
 # SettleTrace
 ### AI-Powered Payment Reconciliation & Exception Management
-[12:12 am, 05/09/2026] NATCHATHRA R: 
 SettleTrace is an AI-assisted payment reconciliation platform that helps businesses detect, investigate, and resolve payment and settlement exceptions with transparent decision-making and human oversight.
 
 ## Problem
